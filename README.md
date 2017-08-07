@@ -3,4 +3,4 @@ This repository contains analyses and data for a research project investigating 
 
 The main analysis makes use of crossed-random effect model (linear mixed model), which has rarely been used in social-cognitive psychology research, but is increasingly popular in ecology, linguistics, etc., and is incredibly powerful and flexible. The data are analyzed at the trial level, allowing for missing data due to eye-tracking calibration quality, and also incorportaing person-level predictors.
 
-All the analysis files are under [GRF1314_Rproj](./GRF1314_Rproj), which already includes an R project file for RStudio. Data files are referenced to in the analysis scripts.
+All the analysis files are under [GRF1314_Rproj](./GRF1314_Rproj), which already includes an R project file for RStudio. Data files are referenced in the analysis scripts.
